@@ -1,0 +1,38 @@
+html {
+    font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+   
+  }
+
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1 px;
+  }
+
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #352D28;
+    padding: 0 /*top */ 222px /*right */ 20px /*bottom */ 222px /*left */;
+    border: 17px solid rgb(6, 181, 152);
+    color: #ffffff;
+
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;
+    text-shadow: 4px 1.8px 1px rgb(2, 2, 2);
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
